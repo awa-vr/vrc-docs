@@ -1,18 +1,6 @@
 ---
-title: Documentation
-next: first-page
+title: Introduction
+next: docs/presets
 ---
 
-This is a demo of the theme's documentation layout.
-
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+{{< callout type="info" >}}Basic Unity and Blender knowledge is required.{{< /callout >}}
