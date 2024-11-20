@@ -59,4 +59,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/awa-vr/vrc-docs/content"
+    base: "https://github.com/awa-vr/vrc-docs/tree/main/content"
