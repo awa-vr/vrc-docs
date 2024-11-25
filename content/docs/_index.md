@@ -1,5 +1,6 @@
 ---
-title: Introduction
+title: Welcome
+linkTitle: Guide
 next: docs/presets
 ---
 
