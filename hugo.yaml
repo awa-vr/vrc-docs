@@ -21,7 +21,7 @@ menu:
     - name: Docs
       pageRef: /docs
       weight: 1
-    - name: About
+    - name: About Me
       pageRef: /about
       weight: 2
     - name: Contact ↗
