@@ -3,7 +3,9 @@ title: AwA's VRC Docs
 toc: false
 ---
 
-Welcome, this is my collection of VRChat documentation. It's mainly focused on avatar optimization for now.
+Welcome, this is my collection of VRChat documentation. I want this to become the one place where someone can start knowing nothing from VRChat Creation to creating their own avatars.
+
+This is still very much a work in progress, and all suggestions are welcome.
 
 ## Explore
 
