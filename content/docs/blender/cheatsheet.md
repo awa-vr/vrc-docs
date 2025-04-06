@@ -3,6 +3,9 @@ title: Cheatsheet
 prev: docs/blender/_index
 ---
 
+> [!CAUTION]
+> Work In Progress
+
 ## Basics
 
 > [!TIP]

@@ -7,4 +7,5 @@ sidebar:
   open: false
 ---
 
-WIP
+> [!CAUTION]
+> Work In Progress

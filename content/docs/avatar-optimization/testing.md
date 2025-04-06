@@ -6,7 +6,8 @@ next: docs/avatar-optimization/skinned-meshes
 weight: 1000
 ---
 
-WIP
+> [!CAUTION]
+> Work In Progress
 
 Testing an avatar's performance can be hard inside of VRChat, so we're gonna do it in the unity editor. This isn't perfect for a few reasons, but at least we'll have a consistent place to test without having to worry about VRChat updates.
 
