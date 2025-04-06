@@ -24,8 +24,8 @@ menu:
     - name: About Me
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/awa-vr"
+    - name: Links ↗
+      url: "https://linktr.ee/awa_vr"
       weight: 3
     - name: Search
       weight: 4
