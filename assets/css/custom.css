@@ -1,0 +1,9 @@
+:root {
+    --primary-hue: 267deg;
+    --primary-saturation: 84%;
+    --primary-lightness: 81%;
+}
+
+nav > a > img{
+    border-radius: 50% !important;
+}
