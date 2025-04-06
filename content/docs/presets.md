@@ -19,9 +19,8 @@ It should look like this when you're done.
 ![](/images/docs/presets/step2.png)
 
 ## Adding a preset
-{{< callout type="info" >}}
-You can add multiple presets all in the same layer.
-{{< /callout >}}
+> [!NOTE]
+> You can add multiple presets all in the same layer.
 
 ### FX controller
 1. Go to your avatar's Expression Parameters, and add a new `bool` parameter, disable both `saved` and `syned`, and set the default value to `false`.
