@@ -25,7 +25,7 @@ After that create a new animation and call it something like `EmptyClip`, that's
 
 ### Name the empty animation state
 
-Now select the empty state you made in step 2, give it a name (for example `Idle`), and set `motion` to the `EmptyClip` you made in step 3 (or the empty clip the [Avatars 3.0 Manager](https://github.com/VRLabs/Avatars-3.0-Manager) package provides).
+Now select the empty state you made in [step 2](#create-an-empty-state), give it a name (for example `Idle`), and set `motion` to the `EmptyClip` you made in [step 3](#add-an-empty-clip-to-the-animation-state) (or the empty clip the [Avatars 3.0 Manager](https://github.com/VRLabs/Avatars-3.0-Manager) package provides).
 
 It should look like this when you're done.
 ![](/images/docs/presets/step2.png)
