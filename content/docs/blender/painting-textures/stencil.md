@@ -2,25 +2,31 @@
 title: Stencil
 ---
 
-## Introduction
-
 Stencils allow you to paint an image onto a texture on an object.
 ![](/images/docs/blender/texture-painting/stencil/preview.gif)
 
 ## Setup
 
-1. Make sure you have an image in the object's material you want to put a stencil on.
-2. Make sure the object you want to paint on has a good unwarped UV map.
-3. Go to the `Texture Paint` tab.
-4. Add a new brush.
+{{% steps %}}
+
+### Object's material and UV map
+
+Make sure you have an image in the object's material you want to put a stencil on. Next make sure the object you want to paint on has a good unwarped UV map.
+
+### Creating a new brush
+Go to the `Texture Paint` tab, and add a new brush.
    ![](/images/docs/blender/texture-painting/stencil/step1.png)
-5. Select the newly added brush. (Maybe also give this brush a useful name)
-6. Change the texture mapping from `View Plane` to `Stencil`.
+
+### Setting up the brush
+Select the newly added brush (Maybe also give this brush a useful name), and change the texture mapping from `View Plane` to `Stencil`.
    ![](/images/docs/blender/texture-painting/stencil/step2.png)
-7. Add a new texture to the brush.
+
+### Add a texture
+Add a new texture to the brush.
    ![](/images/docs/blender/texture-painting/stencil/step3.png)
-8. Open the texture tab and open your desired texture.
+Now open the texture tab and open your desired texture.
    ![](/images/docs/blender/texture-painting/stencil/step4.png)
+   {{% /steps %}}
 
 ## Movement
 
