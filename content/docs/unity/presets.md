@@ -1,7 +1,7 @@
 ---
 title: Presets
 # prev: docs/_index
-weight: 2
+weight: 200
 ---
 
 Creating presets for your avatar is really easy, but a bit time-consuming. Using [VRChat's Avatar Parameter Driver](https://creators.vrchat.com/avatars/state-behaviors/#avatar-parameter-driver) you can change parameter's values in an animation state. This method uses 1 layer in your FX controller and no network synced parameters (assuming the things you want to change with the preset are synced).
