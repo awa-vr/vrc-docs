@@ -4,6 +4,32 @@
     --primary-lightness: 81%;
 }
 
-nav > a > img{
+nav>a>img {
+    /* Navbar Image */
     border-radius: 50% !important;
+}
+
+@font-face {
+    font-family: "blank-river";
+    font-style: normal;
+    font-weight: 400;
+    src: local('Blank River'), url('https://fonts.cdnfonts.com/s/51976/Blank River.woff') format('woff');
+}
+
+nav>a:first-of-type>span {
+    /* Navbar Title */
+    font-family: blank-river, sans-serif;
+    font-size: x-large;
+    transition: 250ms;
+}
+
+nav>a:first-of-type>span:hover {
+    /* Navbar Title Colors on hover */
+    text-shadow: 2px 2px 0 #ff6ec4, 4px 4px 0 #7873f5;
+    transition: 250ms;
+}
+
+nav>a:first-of-type:hover {
+    /* Narvar Image and Title */
+    opacity: 100% !important;
 }
