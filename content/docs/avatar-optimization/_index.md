@@ -1,6 +1,6 @@
 ---
 title: Avatar Optimization
-type: docs
+weight: 300
 prev: docs/presets
 next: docs/avatar-optimization/skinned-meshes
 sidebar:

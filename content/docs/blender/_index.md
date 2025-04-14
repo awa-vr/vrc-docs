@@ -1,6 +1,7 @@
 ---
 title: Blender
 next: docs/blender/cheatsheet
+weight: 100
 ---
 
 > [!CAUTION]
