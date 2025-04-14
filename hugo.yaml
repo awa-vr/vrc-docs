@@ -42,6 +42,9 @@ menu:
       params:
         icon: x-twitter
 
+# Parse Git commit
+enableGitInfo: true
+
 params:
   navbar:
     displayTitle: true
@@ -52,6 +55,9 @@ params:
       #link: /
       width: 40
       height: 20
+  # Display the last modification date
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
 
   page:
     width: wide
