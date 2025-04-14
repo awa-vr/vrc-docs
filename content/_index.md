@@ -7,14 +7,10 @@ Welcome, this is my collection of VRChat documentation. I want this to become th
 
 This is still very much a work in progress, and all suggestions are welcome.
 
-## Explore
-
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" tag="WIP" tagType="error" >}}
-  {{< card link="about" title="About Me" icon="user" >}}
-{{< /cards >}}
+## Docs and Guides
 
 {{< cards cols="3" >}}
-  {{< card link="/" title="Blender" image="/images/icons/blender.png" tag="WIP" tagType="error" subtitle="All things blender" >}}
-  {{< card link="/" title="Avatar Optimization" image="/images/icons/vrchat.png" tag="WIP" tagType="error" subtitle="All things to optimize an avatar" >}}
+  {{< card link="/docs/blender" title="Blender" image="/images/icons/blender.png" tag="WIP" tagType="error" subtitle="All things blender" >}}
+  {{< card link="/docs/unity" title="Unity" image="/images/icons/unity.png" tag="WIP" tagType="error" subtitle="All things Unity" >}}
+  {{< card link="/docs/avatar-optimization" title="Avatar Optimization" image="/images/icons/vrchat.png" tag="WIP" tagType="error" subtitle="All things to optimize an avatar" >}}
 {{< /cards >}}
