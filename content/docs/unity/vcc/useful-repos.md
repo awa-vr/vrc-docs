@@ -5,13 +5,17 @@ title: Useful Repos and Tools
 A collection of useful repos and tools to use with Unity. This list is in no order, please check all of them out as these are the tools I find most useful when creating/editing avatars.
 
 > [!TIP]
-> Check out the [Adding a repo to VCC](../adding-repo-to-vcc) guide if you don't know how to add a repo to VCC.
+> Click the `Add Repo` button to quickly add the repo to VCC.
+>
+> Or check out the [Adding a repo to VCC](../adding-repo-to-vcc) guide if you don't know how to add a repo to VCC.
 
 ## DreadScripts
 
 🔗 Website: https://vpm.dreadscripts.com
 
 🔗 `.json`: `https://vpm.dreadscripts.com/listings/main.json`
+
+<a class="button-link" href="vcc://vpm/addRepo?url=https://vpm.dreadscripts.com/listings/main.json">Add repo<a>
 
 ### Most useful tools:
 
@@ -47,6 +51,8 @@ An alternative to the VRCSDK expression Menu & Parameters Editors that provides 
 
 🔗 `.json`: `https://gabsith.github.io/GabSith-VCC-Listing/index.json`
 
+<a class="button-link" href="vcc://vpm/addRepo?url=https://gabsith.github.io/GabSith-VCC-Listing/index.json">Add repo<a>
+
 ### Most useful tools:
 
 {{< tabs items="Anchor Override Editor, Bound Editor" >}}
@@ -69,6 +75,8 @@ Easily set the `Bounds` of all skinned meshes to the same value.
 ## Flare's Avatar Tools
 
 🔗 `.json`: `https://whiteflare.github.io/vpm-repos/vpm.json`
+
+<a class="button-link" href="vcc://vpm/addRepo?url=https://whiteflare.github.io/vpm-repos/vpm.json">Add repo<a>
 
 ### Most useful tools:
 
@@ -94,6 +102,8 @@ Quickly and easily see the poly count of all meshes on your avatar.
 ## Pumpin's Avatar Tools
 
 🔗 `.json`: `https://rurre.github.io/vpm/index.json`
+
+<a class="button-link" href="vcc://vpm/addRepo?url=https://rurre.github.io/vpm/index.json">Add repo<a>
 
 ### Most useful tools:
 
@@ -126,6 +136,8 @@ Quickly pack multiple B/W masks into one.
 
 🔗 `.json`: `https://vpm.razgriz.one/index.json`
 
+<a class="button-link" href="vcc://vpm/addRepo?url=https://vpm.razgriz.one/index.json">Add repo<a>
+
 ### Most useful tools:
 
 {{< tabs items="Animator,Animation Defaults" >}}
@@ -150,3 +162,5 @@ Adds default settings to new animations and transitions to your liking.
 🔗 website: https://docs.hai-vr.dev/docs/products
 
 🔗 `.json`: `https://hai-vr.github.io/vpm-listing/index.json`
+
+<a class="button-link" href="vcc://vpm/addRepo?url=https://hai-vr.github.io/vpm-listing/index.json">Add repo<a>

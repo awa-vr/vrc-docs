@@ -33,3 +33,29 @@ nav>a:first-of-type:hover {
     /* Narvar Image and Title */
     opacity: 100% !important;
 }
+
+/* Light mode */
+.button-link {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: hsl(var(--primary-hue), var(--primary-saturation), var(--primary-lightness));
+    color: white;
+    font-weight: 600;
+    border-radius: 0.375rem;
+    text-decoration: none;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.button-link:hover {
+    background-color: hsl(var(--primary-hue), var(--primary-saturation), calc(var(--primary-lightness) - 10%));
+}
+
+/* Dark mode */
+html[class~="dark"] .button-link {
+    background-color: hsl(var(--primary-hue), var(--primary-saturation), calc(var(--primary-lightness) + 10%));
+    color: black;
+}
+
+html[class~="dark"] .button-link:hover {
+    background-color: hsl(var(--primary-hue), var(--primary-saturation), calc(var(--primary-lightness) + 5%));
+}
