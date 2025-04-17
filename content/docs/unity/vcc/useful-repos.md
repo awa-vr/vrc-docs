@@ -144,3 +144,9 @@ Adds default settings to new animations and transitions to your liking.
 {{< /tab >}}
 
 {{< /tabs >}}
+
+## Hai's Tools
+
+🔗 website: https://docs.hai-vr.dev/docs/products
+
+🔗 `.json`: `https://hai-vr.github.io/vpm-listing/index.json`
