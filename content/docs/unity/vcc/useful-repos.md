@@ -15,7 +15,7 @@ A collection of useful repos and tools to use with Unity. This list is in no ord
 
 🔗 `.json`: `https://vpm.dreadscripts.com/listings/main.json`
 
-<a class="button-link" href="vcc://vpm/addRepo?url=https://vpm.dreadscripts.com/listings/main.json">Add repo<a>
+<a class="button-link" href="vcc://vpm/addRepo?url=https://vpm.dreadscripts.com/listings/main.json">Add repo</a>
 
 ### Most useful tools:
 
@@ -51,7 +51,7 @@ An alternative to the VRCSDK expression Menu & Parameters Editors that provides 
 
 🔗 `.json`: `https://gabsith.github.io/GabSith-VCC-Listing/index.json`
 
-<a class="button-link" href="vcc://vpm/addRepo?url=https://gabsith.github.io/GabSith-VCC-Listing/index.json">Add repo<a>
+<a class="button-link" href="vcc://vpm/addRepo?url=https://gabsith.github.io/GabSith-VCC-Listing/index.json">Add repo</a>
 
 ### Most useful tools:
 
@@ -76,7 +76,7 @@ Easily set the `Bounds` of all skinned meshes to the same value.
 
 🔗 `.json`: `https://whiteflare.github.io/vpm-repos/vpm.json`
 
-<a class="button-link" href="vcc://vpm/addRepo?url=https://whiteflare.github.io/vpm-repos/vpm.json">Add repo<a>
+<a class="button-link" href="vcc://vpm/addRepo?url=https://whiteflare.github.io/vpm-repos/vpm.json">Add repo</a>
 
 ### Most useful tools:
 
@@ -103,7 +103,7 @@ Quickly and easily see the poly count of all meshes on your avatar.
 
 🔗 `.json`: `https://rurre.github.io/vpm/index.json`
 
-<a class="button-link" href="vcc://vpm/addRepo?url=https://rurre.github.io/vpm/index.json">Add repo<a>
+<a class="button-link" href="vcc://vpm/addRepo?url=https://rurre.github.io/vpm/index.json">Add repo</a>
 
 ### Most useful tools:
 
@@ -136,7 +136,7 @@ Quickly pack multiple B/W masks into one.
 
 🔗 `.json`: `https://vpm.razgriz.one/index.json`
 
-<a class="button-link" href="vcc://vpm/addRepo?url=https://vpm.razgriz.one/index.json">Add repo<a>
+<a class="button-link" href="vcc://vpm/addRepo?url=https://vpm.razgriz.one/index.json">Add repo</a>
 
 ### Most useful tools:
 
@@ -163,4 +163,4 @@ Adds default settings to new animations and transitions to your liking.
 
 🔗 `.json`: `https://hai-vr.github.io/vpm-listing/index.json`
 
-<a class="button-link" href="vcc://vpm/addRepo?url=https://hai-vr.github.io/vpm-listing/index.json">Add repo<a>
+<a class="button-link" href="vcc://vpm/addRepo?url=https://hai-vr.github.io/vpm-listing/index.json">Add repo</a>
