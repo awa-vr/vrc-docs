@@ -1,5 +1,6 @@
 ---
 title: Adding a repo to VCC
+weight: 100
 ---
 
 ## Method 1: through their website (recommended)
