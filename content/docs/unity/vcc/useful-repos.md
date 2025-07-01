@@ -10,6 +10,47 @@ A collection of useful repos and tools to use with Unity. This list is in no ord
 >
 > Or check out the [Adding a repo to VCC](../adding-repo-to-vcc) guide if you don't know how to add a repo to VCC.
 
+## AwA's Tools
+
+> [!NOTE]
+> This was previously DreadScript, but the creator pulled all his tools. So this a continuation of some of his tools + my future tools.
+
+🔗 Website: https://awa-vr.github.io/vrc-tools-vpm/
+
+🔗 `.json`: `https://awa-vr.github.io/vrc-tools-vpm/index.json`
+
+<a class="button-link" href="vcc://vpm/addRepo?url=https://awa-vr.github.io/vrc-tools-vpm/index.json">Add repo</a>
+
+### Most useful tools:
+
+{{< tabs items="CopyCutPaste,HierarchyPlus,NoAutoGame,VRCSDK+" >}}
+
+{{< tab >}}
+
+Adds 3 much needed buttons to Unity assets: Copy, Cut, and Paste.
+
+{{< /tab >}}
+{{< tab >}}
+
+A general improvement to the unity hierarchy such as component icons, guide lines, row coloring and settings for customization.
+![](/images/docs/unity/vcc/useful-repos/hierarchy-plus.png "HierarchyPlus")
+
+{{< /tab >}}
+{{< tab >}}
+
+Prevents the Game window from opening or automatically focusing.
+
+{{< /tab >}}
+{{< tab >}}
+
+An alternative to the VRCSDK expression Menu & Parameters Editors that provides better functionality and quality of life features.
+![](/images/docs/unity/vcc/useful-repos/vrcsdkp-menu.png "VRCSDK+ Menu")
+![](/images/docs/unity/vcc/useful-repos/vrcsdkp-expressions.png "VRCSDK+ Expressions")
+
+{{< /tab >}}
+
+{{< /tabs >}}
+
 ## Workflow Tools
 
 🔗 `.json`: `https://gabsith.github.io/GabSith-VCC-Listing/index.json`
