@@ -20,24 +20,27 @@ menu:
   main:
     - name: Docs
       pageRef: /docs
-      weight: 1
+      weight: 10
     - name: About Me
       pageRef: /about
-      weight: 2
+      weight: 20
+    - name: AwA's VPM Repo ↗
+      url: "https://awa-vr.github.io/vrc-tools-vpm/"
+      weight: 30
     - name: Links ↗
       url: "https://linktr.ee/awa_vr"
-      weight: 3
+      weight: 40
     - name: Search
-      weight: 4
+      weight: 50
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 60
       url: "https://github.com/awa-vr/vrc-docs"
       params:
         icon: github
     - name: Twitter
-      weight: 6
+      weight: 70
       url: "https://x.com/AWA_VRC"
       params:
         icon: x-twitter
