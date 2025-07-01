@@ -70,4 +70,24 @@ The folder should look like this when you're done. (don't worry if you don't see
 > [!TIP]
 > Check out the [Adding a repo to VCC](../adding-repo-to-vcc) guide if the `Add Repo` button doesn't work.
 
+### Avatar Creation Template
+
+The Avatar Creation Template adds useful tools for when you want to create an avatar from scratch. But it also need a few more repos.
+
+`https://hai-vr.github.io/vpm-listing/index.json`
+
+<a class="button-link" href="vcc://vpm/addRepo?url=https://hai-vr.github.io/vpm-listing/index.json">Add repo</a>
+
+`https://wholesomevr.github.io/SPS-Configurator/index.json`
+
+<a class="button-link" href="vcc://vpm/addRepo?url=https://wholesomevr.github.io/SPS-Configurator/index.json">Add repo</a>
+
+`https://wholesomevr.github.io/vpm/index.json`
+
+<a class="button-link" href="vcc://vpm/addRepo?url=https://wholesomevr.github.io/vpm/index.json">Add repo</a>
+
+`https://spokeek.github.io/goloco/index.json`
+
+<a class="button-link" href="vcc://vpm/addRepo?url=https://spokeek.github.io/goloco/index.json">Add repo</a>
+
 {{% /steps %}}
