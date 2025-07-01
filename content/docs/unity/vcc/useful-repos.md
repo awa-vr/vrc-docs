@@ -10,42 +10,6 @@ A collection of useful repos and tools to use with Unity. This list is in no ord
 >
 > Or check out the [Adding a repo to VCC](../adding-repo-to-vcc) guide if you don't know how to add a repo to VCC.
 
-## OpenVRCTools
-
-> [!NOTE]
-> This was previously DreadScripts before it got taken down by the creator. I therefore no longer recommend supporting him in anyway.
-
-🔗 Website: https://openvrctools.github.io/VPMRepo/
-
-🔗 `.json`: `https://openvrctools.github.io/VPMRepo/index.json`
-
-<a class="button-link" href="vcc://vpm/addRepo?url=https://openvrctools.github.io/VPMRepo/index.json">Add repo</a>
-
-### Most useful tools:
-
-{{< tabs items="HierarchyPlus,NoAutoGame,VRCSDK+" >}}
-
-{{< tab >}}
-
-A general improvement to the unity hierarchy such as component icons, guide lines, row coloring and settings for customization.
-![](/images/docs/unity/vcc/useful-repos/hierarchy-plus.png "HierarchyPlus")
-
-{{< /tab >}}
-{{< tab >}}
-
-Prevents the Game window from opening or automatically focusing.
-
-{{< /tab >}}
-{{< tab >}}
-
-An alternative to the VRCSDK expression Menu & Parameters Editors that provides better functionality and quality of life features.
-![](/images/docs/unity/vcc/useful-repos/vrcsdkp-menu.png "VRCSDK+ Menu")
-![](/images/docs/unity/vcc/useful-repos/vrcsdkp-expressions.png "VRCSDK+ Expressions")
-
-{{< /tab >}}
-
-{{< /tabs >}}
-
 ## Workflow Tools
 
 🔗 `.json`: `https://gabsith.github.io/GabSith-VCC-Listing/index.json`
