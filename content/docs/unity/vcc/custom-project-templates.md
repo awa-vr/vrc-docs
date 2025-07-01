@@ -19,6 +19,10 @@ Of course I have a custom template with the tools I always use (most of the tool
 Download the [latest release package](https://github.com/awa-vr/VCC-templates/releases/latest). `Source code (zip)`
 ![](/images/docs/unity/vcc/custom-project-templates/step1.png)
 
+> [!NOTE]
+> This also has a quick setup script inside it, if you want to use it double-click `setup.bat`.
+> Although it's not guaranteed that this will work for you.
+
 ### Move files
 
 Unzip the `.zip`. Press `Win + R` and paste `%LocalAppData%\VRChatCreatorCompanion`, or open explorer and paste it in the path input. This will open a new window. Create a new folder called `Templates` and move all the files inside of it.
