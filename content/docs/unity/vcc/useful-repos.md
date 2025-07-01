@@ -10,23 +10,21 @@ A collection of useful repos and tools to use with Unity. This list is in no ord
 >
 > Or check out the [Adding a repo to VCC](../adding-repo-to-vcc) guide if you don't know how to add a repo to VCC.
 
-## DreadScripts
+## OpenVRCTools
 
-🔗 Website: https://vpm.dreadscripts.com
+> [!NOTE]
+> This was previously DreadScripts before it got taken down by the creator. I therefore no longer recommend supporting him in anyway.
 
-🔗 `.json`: `https://vpm.dreadscripts.com/listings/main.json`
+🔗 Website: https://openvrctools.github.io/VPMRepo/
 
-<a class="button-link" href="vcc://vpm/addRepo?url=https://vpm.dreadscripts.com/listings/main.json">Add repo</a>
+🔗 `.json`: `https://openvrctools.github.io/VPMRepo/index.json`
+
+<a class="button-link" href="vcc://vpm/addRepo?url=https://openvrctools.github.io/VPMRepo/index.json">Add repo</a>
 
 ### Most useful tools:
 
-{{< tabs items="CopyCutPaste,HierarchyPlus,NoAutoGame,VRCSDK+" >}}
+{{< tabs items="HierarchyPlus,NoAutoGame,VRCSDK+" >}}
 
-{{< tab >}}
-
-Adds 3 much needed buttons to Unity assets: Copy, Cut, and Paste.
-
-{{< /tab >}}
 {{< tab >}}
 
 A general improvement to the unity hierarchy such as component icons, guide lines, row coloring and settings for customization.
