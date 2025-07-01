@@ -28,9 +28,9 @@ The folder should look like this when you're done. (don't worry if you don't see
 
 ### Add repos to VCC
 
-`https://vpm.dreadscripts.com/listings/main.json`
+`https://awa-vr.github.io/vrc-tools-vpm/index.json`
 
-<a class="button-link" href="vcc://vpm/addRepo?url=https://vpm.dreadscripts.com/listings/main.json">Add repo</a>
+<a class="button-link" href="vcc://vpm/addRepo?url=https://awa-vr.github.io/vrc-tools-vpm/index.json">Add repo</a>
 
 `https://rurre.github.io/vpm/index.json`
 
@@ -51,6 +51,21 @@ The folder should look like this when you're done. (don't worry if you don't see
 `https://vcc.vrcfury.com`
 
 <a class="button-link" href="vcc://vpm/addRepo?url=https://vcc.vrcfury.com">Add repo</a>
+
+`https://poiyomi.github.io/vpm/index.json`
+
+<a class="button-link" href="vcc://vpm/addRepo?url=https://poiyomi.github.io/vpm/index.json">Add repo</a>
+
+`https://gabsith.github.io/GabSith-VCC-Listing/index.json`
+
+<a class="button-link" href="vcc://vpm/addRepo?url=https://gabsith.github.io/GabSith-VCC-Listing/index.json">Add repo</a>
+
+> [!NOTE]
+> You also need to add Adjerry's Face Tracking Repo to use the FT template.
+>
+> `https://adjerry91.github.io/VRCFaceTracking-Templates/index.json`
+> 
+> <a class="button-link" href="vcc://vpm/addRepo?url=https://adjerry91.github.io/VRCFaceTracking-Templates/index.json">Add repo</a>
 
 > [!TIP]
 > Check out the [Adding a repo to VCC](../adding-repo-to-vcc) guide if the `Add Repo` button doesn't work.
