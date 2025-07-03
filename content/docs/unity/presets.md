@@ -6,6 +6,11 @@ weight: 200
 
 Creating presets for your avatar is really easy, but a bit time-consuming. Using [VRChat's Avatar Parameter Driver](https://creators.vrchat.com/avatars/state-behaviors/#avatar-parameter-driver) you can change parameter's values in an animation state. This method uses 1 layer in your FX controller and no network synced parameters (assuming the things you want to change with the preset are synced).
 
+> [!NOTE]
+> In my [VPM repo](https://awa-vr.github.io/vrc-tools-vpm/) you can find a package called `Preset Creator`, this will basically do the same as what's explained below. Although I strongly encourage you to read through it to learn how it works.
+>
+> Furthermore, the tool won't automatically add presets to a menu, so read the [Create a toggle](#create-a-toggle) section below.
+
 ## Setup
 
 {{% steps %}}
