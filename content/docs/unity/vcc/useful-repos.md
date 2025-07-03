@@ -13,7 +13,7 @@ A collection of useful repos and tools to use with Unity. This list is in no ord
 ## AwA's Tools
 
 > [!NOTE]
-> This was previously DreadScript, but the creator pulled all his tools. So this a continuation of some of his tools + my future tools.
+> This was previously DreadScript, but the creator pulled all his tools. So this a continuation of some of his tools + the tools that I developed.
 
 🔗 Website: https://awa-vr.github.io/vrc-tools-vpm/
 
@@ -23,7 +23,7 @@ A collection of useful repos and tools to use with Unity. This list is in no ord
 
 ### Most useful tools:
 
-{{< tabs items="CopyCutPaste,HierarchyPlus,NoAutoGame,VRCSDK+" >}}
+{{< tabs items="CopyCutPaste,HierarchyPlus,NoAutoGame,VRCSDK+,Preset Creator" >}}
 
 {{< tab >}}
 
@@ -46,6 +46,12 @@ Prevents the Game window from opening or automatically focusing.
 An alternative to the VRCSDK expression Menu & Parameters Editors that provides better functionality and quality of life features.
 ![](/images/docs/unity/vcc/useful-repos/vrcsdkp-menu.png "VRCSDK+ Menu")
 ![](/images/docs/unity/vcc/useful-repos/vrcsdkp-expressions.png "VRCSDK+ Expressions")
+
+{{< /tab >}}
+{{< tab >}}
+
+Quickly and easily create and edit presets.
+![](/images/docs/unity/vcc/useful-repos/preset-creator.png "Preset Creator")
 
 {{< /tab >}}
 
