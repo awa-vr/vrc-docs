@@ -94,4 +94,8 @@ The Avatar Creation Template adds useful tools for when you want to create an av
 
 <a class="button-link" href="vcc://vpm/addRepo?url=https://spokeek.github.io/goloco/index.json">Add repo</a>
 
+`https://hfcred.github.io/VPM-Listing/index.json`
+
+<a class="button-link" href="vcc://vpm/addRepo?url=https://hfcred.github.io/VPM-Listing/index.json">Add repo</a>
+
 {{% /steps %}}
