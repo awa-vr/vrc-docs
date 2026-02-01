@@ -9,6 +9,10 @@ nav>a>img {
     border-radius: 50% !important;
 }
 
+nav>a:hover {
+    opacity: 1 !important;
+}
+
 @font-face {
     font-family: "blank-river";
     font-style: normal;
@@ -16,7 +20,13 @@ nav>a>img {
     src: local('Blank River'), url('https://fonts.cdnfonts.com/s/51976/Blank River.woff') format('woff');
 }
 
-nav>a:first-of-type>span {
+.cyberpunky-text {
+    font-size: 3.25rem !important;
+    text-align: center !important;
+}
+
+nav>a:first-of-type>span,
+.cyberpunky-text {
     /* Navbar Title */
     font-family: blank-river, sans-serif;
     font-size: x-large;
@@ -29,11 +39,12 @@ nav>a:first-of-type>span:hover {
     transition: 250ms;
 }
 
-nav>a:first-of-type:hover {
-    /* Narvar Image and Title */
-    opacity: 100% !important;
+.cyberpunky-text:hover {
+    text-shadow: .25rem .25rem 0 #ff6ec4, .5rem .5rem 0 #7873f5;
+    transition: 250ms;
 }
 
+/* Buttons */
 /* Light mode */
 .button-link {
     display: inline-block;
@@ -59,3 +70,115 @@ html[class~="dark"] .button-link {
 html[class~="dark"] .button-link:hover {
     background-color: hsl(var(--primary-hue), var(--primary-saturation), calc(var(--primary-lightness) + 5%));
 }
+
+/* Rainbow Text */
+.rainbow-text {
+    background-image: linear-gradient(to left, #ea76cb, #8839ef, #1e66f5, #40a02b, #df8e1d, #fe640b, #d20f39);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+html[class~="dark"] .rainbow-text {
+    background-image: linear-gradient(to left, #f5c2e7, #cba6f7, #89b4fa, #a6e3a1, #f9e2af, #fab387, #f38ba8);
+}
+
+/* Inline Image */
+.inline-img {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 2em;
+    max-height: 2em;
+    margin-right: 0.5em;
+    margin-top: 0em !important;
+    margin-bottom: 0em !important;
+}
+
+/* Basic font shiz */
+.bold {
+    font-weight: 600;
+}
+
+/* Animated in shader */
+.anim {
+    color: mediumseagreen;
+    font-weight: bold;
+}
+
+.dark .anim {
+    color: mediumspringgreen;
+}
+
+/* Vertex Colors */
+.red {
+    color: red;
+    font-weight: bold;
+}
+
+.dark .red {
+    color: tomato;
+}
+
+.green {
+    color: mediumseagreen;
+    font-weight: bold;
+}
+
+.dark .green {
+    color: mediumspringgreen;
+}
+
+.blue {
+    color: blue;
+    font-weight: bold;
+}
+
+.dark .blue {
+    color: dodgerblue;
+}
+
+.black {
+    color: black;
+    font-weight: bold;
+}
+
+.dark .black {
+    color: gray;
+}
+
+/* Table Style fix to make Hextra v0.11.1 have the same-ish table style as Hextra v0.9.7 */
+
+table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    font-size: 1rem !important;
+}
+
+th,
+td {
+    padding: 8px 12px !important;
+    border: 1px solid #e5e7eb !important;
+    text-align: left !important;
+}
+
+th {
+    font-weight: bold !important;
+}
+
+tr:nth-child(even) {
+    background-color: #fafafa !important;
+}
+
+:root.dark tr:nth-child(even) {
+    background-color: #1d1f21 !important;
+}
+
+:root.dark th,
+:root.dark td {
+    border: 1px solid #4b5563 !important;
+    border-color: rgb(75 85 99/var(--tw-border-opacity));
+}
+
+/* :root.dark th {
+    background-color: #1d1f21 !important;
+} */
