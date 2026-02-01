@@ -24,8 +24,8 @@ menu:
     - name: About Me
       pageRef: /about
       weight: 20
-    - name: AwA's VPM Repo ↗
-      url: "https://awa-vr.github.io/vrc-tools-vpm/"
+    - name: AwA's VPM Tools
+      url: /vpm-tools 
       weight: 30
     - name: Links ↗
       url: "https://linktr.ee/awa_vr"
