@@ -64,6 +64,8 @@ params:
 
   page:
     width: wide
+    tabs:
+      sync: true
 
   footer:
     displayCopyright: false
@@ -72,3 +74,14 @@ params:
   editURL:
     enable: true
     base: "https://github.com/awa-vr/vrc-docs/tree/main/content"
+
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
+      # full | forward | reverse | strict
+      tokenize: full
+
+baseUrl: "https://awa-vr.github.io/vrc-docs"
