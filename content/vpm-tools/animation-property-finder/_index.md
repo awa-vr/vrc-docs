@@ -6,7 +6,7 @@ Quickly find what animation clips animate a given property on a GameObject.
 
 ![](/images/vpm-tools/animation-property-finder/window.png "Main window")
 
-# How to use
+## How to use
 
 1. Drag in a GameObject into the `Object` field
 2. Either select a preset, or copy a property name *(right-click in a poiyomi material)*

@@ -6,7 +6,7 @@ Clean up unneeded subassets from an animator controller.
 
 ![](/images/vpm-tools/controller-cleaner/window.png "Main window")
 
-# How to use
+## How to use
 
 > [!CAUTION]
 > **Always have a backup**, I am not responsible for any broken animators.
@@ -15,7 +15,7 @@ Clean up unneeded subassets from an animator controller.
 2. Click `Scan`
 3. Click `Clean` if needed
 
-## Do all animators at once
+### Do all animators at once
 
 > [!CAUTION]
 > **It's not recommended scanning and cleaning all animators.** This will probably break some stuff. Only use it on the animators you made.

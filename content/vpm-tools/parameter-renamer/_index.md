@@ -6,7 +6,7 @@ Quickly rename a parameter everywhere. (menus, parameters, controllers, contacts
 
 ![](/images/vpm-tools/parameter-renamer/window.png "Main Window")
 
-# What does it do?
+## What does it do?
 
 This tool aims to rename a given parameter everywhere for a given avatar, this includes:
 - All menus
@@ -25,7 +25,7 @@ This tool aims to rename a given parameter everywhere for a given avatar, this i
 > [!NOTE]
 > This tool has great integration with [Preset Creator](../preset-creator/) and [VRC SDK+](../vrc-sdkplus/).
 
-# How to use
+## How to use
 
 0. Select an Avatar Descriptor if it didn't select automatically
 1. Select the parameter you want to rename
