@@ -22,6 +22,9 @@ This tool aims to rename a given parameter everywhere for a given avatar, this i
 > [!CAUTION]
 > This tool does **not rename physbone parameters**. You will have to do this manually.
 
+> [!NOTE]
+> This tool has great integration with [Preset Creator](../preset-creator/) and [VRC SDK+](../vrc-sdkplus/).
+
 # How to use
 
 0. Select an Avatar Descriptor if it didn't select automatically
