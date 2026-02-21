@@ -22,7 +22,7 @@ This will create a new layer called `AwA - Presets - DO NOT TOUCH`. **Do not del
 4. Add the new preset
 
 > [!IMPORTANT]
-> You will need to manually create a menu and assign a toggle to this.
+> You will need to manually create a menu and assign a toggle to this. For more info see [Adding to a menu](#adding-to-a-menu)
 
 ### Updating a preset
 
