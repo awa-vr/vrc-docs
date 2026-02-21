@@ -49,6 +49,12 @@ menu:
 enableGitInfo: true
 
 params:
+  analytics:
+    umami:
+      serverURL: "https://awa-vr.github.io/vrc-docs"
+      websiteID: "f3106910-7d15-476b-b34d-99e376972782"
+      doNotTrack: "false"
+
   navbar:
     displayTitle: true
     displayLogo: true
