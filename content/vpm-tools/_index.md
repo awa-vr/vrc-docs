@@ -2,6 +2,8 @@
 title: VPM Tools
 ---
 
+A collection of free and open-source tools made to make editing and making VRChat avatars faster and easier. All tools are licensed under [MIT](https://mit-license.org/) license.
+
 <a class="button-link" href="vcc://vpm/addRepo?url=https://awa-vr.github.io/vrc-tools-vpm/index.json">Add Repository</a>
 
 {{< cards cols="3" >}}
