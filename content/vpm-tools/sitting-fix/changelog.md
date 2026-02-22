@@ -2,6 +2,10 @@
 title: Changelog
 ---
 
+## [1.1.0] 2026-02-22
+
+- Add: MIT license
+
 ## [1.1.0] 2026-01-24
 
 - Add: Modular Avatar support

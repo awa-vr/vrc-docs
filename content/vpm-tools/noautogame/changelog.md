@@ -2,6 +2,10 @@
 title: Changelog
 ---
 
+## [1.1.2] 2026-02-22
+
+- Add: original Dreathrith copyright
+
 ## [1.1.1] 2025-07-03
 
 - Add: legacy packages

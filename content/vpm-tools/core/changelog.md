@@ -2,6 +2,10 @@
 title: Changelog
 ---
 
+## [1.4.1] 2026-02-22
+
+- Add: MIT license
+
 ## [1.4.0] 2026-01-23
 
 - Refactor: split up the Core class into multiple files

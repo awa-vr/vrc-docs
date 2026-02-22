@@ -2,9 +2,13 @@
 title: Changelog
 ---
 
+## [1.0.6] 2026-02-22
+
+- Add: MIT license
+
 ## [1.0.4] 2026-01-31
 
-Add: missing configuration warning
+- Add: missing configuration warning
 
 ## [1.0.4] 2026-01-09
 
