@@ -20,3 +20,8 @@ A collection of free and open-source tools made to make editing and making VRCha
 {{< card title="NoAutoGame" link="noautogame" image="" subtitle="Automatically unfocuses the game window when going into play mode." >}}
 <!-- {{< card title="" link="" image="" subtitle="" >}} -->
 {{< /cards >}}
+
+> [!TIP]
+> Try [ALCOM](https://vrc-get.anatawa12.com/en/alcom/) for a faster and open-source alternative to [VRChat Creator Companion](https://vcc.docs.vrchat.com/).
+>
+> I'm not sponsored, it's just a great program.
