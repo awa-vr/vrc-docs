@@ -10,6 +10,12 @@ Quickly creator or update an animator controller that can save presets in-game.
 
 Makes it quick for you to create and update an animator that allows for saving and loading custom presets in-game.
 
+## Quick Tips
+
+>[!TIP] Tips
+> - Use `*` to indicate everything after (e.g. `Colors/*` will give back all parameters that start with `Colors/`)
+> - Use `!` to exclude a parameter (e.g. when using `Color/*` you can add exclude a parameter using `!Colors/Clothes`)
+
 ## How to use
 
 ### First set-up
