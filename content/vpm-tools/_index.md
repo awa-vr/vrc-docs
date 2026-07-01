@@ -2,9 +2,36 @@
 title: VPM Tools
 ---
 
+<script>
+    const VPM_JSON_URL = "https://awa-vr.github.io/vrc-tools-vpm/index.json";
+    const COPY_BUTTON_LABEL = "Copy URL";
+
+    async function copyVPMToClipboard(button) {
+        try {
+            await navigator.clipboard.writeText(VPM_JSON_URL);
+            if (button) {
+                const previousLabel = button.textContent;
+                button.textContent = "Copied";
+                button.disabled = true;
+                setTimeout(() => {
+                    button.textContent = previousLabel || COPY_BUTTON_LABEL;
+                    button.disabled = false;
+                }, 1500);
+            }
+        } catch (error) {
+            console.error("Failed to copy VPM repository URL:", error);
+        }
+    }
+</script>
+
 A collection of free and open-source tools made to make editing and making VRChat avatars faster and easier. All tools are licensed under [MIT](https://mit-license.org/) license.
 
-<a class="button-link" href="vcc://vpm/addRepo?url=https://awa-vr.github.io/vrc-tools-vpm/index.json">Add Repository</a>
+> [!NOTE] Adding to VCC
+> <span>
+>    <code>https://awa-vr.github.io/vrc-tools-vpm/index.json</code>
+>    <button class="button-link" type="button" onclick="copyVPMToClipboard(this)">Copy URL</button>
+>    <a class="button-link" href="vcc://vpm/addRepo?url=https://awa-vr.github.io/vrc-tools-vpm/index.json">Add to VCC</a>
+> </span>
 
 {{< cards cols="3" >}}
 {{< card title="Animation Property Finder" link="animation-property-finder" image="/images/vpm-tools/animation-property-finder/window.png" subtitle="Quickly find what animation clips animate a given property on a GameObject." >}}
