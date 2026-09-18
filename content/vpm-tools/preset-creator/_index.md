@@ -2,6 +2,8 @@
 title: Preset Creator
 ---
 
+{{< github-downloads "awa-vr" "Preset-Creator" >}}
+
 Quickly create, edit or remove presets for an avatar.
 
 ![](/images/vpm-tools/preset-creator/window.png "Main Window")

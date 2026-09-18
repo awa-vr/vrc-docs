@@ -2,6 +2,8 @@
 title: VRC SDK+
 ---
 
+{{< github-downloads "awa-vr" "VRC-SDK-Plus" >}}
+
 A set of UI tweaks for the VRC SDK to make it faster to use.
 
 ![](/images/vpm-tools/vrc-sdkplus/menu.png "Menu Editor")

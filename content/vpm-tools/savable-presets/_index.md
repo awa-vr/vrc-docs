@@ -2,6 +2,8 @@
 title: Savable Presets
 ---
 
+{{< github-downloads "awa-vr" "Savable-Presets-Creator" >}}
+
 Quickly creator or update an animator controller that can save presets in-game.
 
 ![](/images/vpm-tools/savable-presets/window.png "Main Window")

@@ -2,6 +2,8 @@
 title: Hierarchy Plus
 ---
 
+{{< github-downloads "awa-vr" "Hierarchy-Plus" >}}
+
 Various tweaks for unity's Hierarchy panel
 
 ![](/images/vpm-tools/hierarchy-plus/window.png "Hierarchy")

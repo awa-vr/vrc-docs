@@ -2,6 +2,8 @@
 title: Parameter Renamer
 ---
 
+{{< github-downloads "awa-vr" "Parameter-Renamer" >}}
+
 Quickly rename a parameter everywhere. (menus, parameters, controllers, contacts, etc.)
 
 ![](/images/vpm-tools/parameter-renamer/window.png "Main Window")

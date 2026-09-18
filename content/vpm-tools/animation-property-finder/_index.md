@@ -2,6 +2,8 @@
 title: Animation Property Finder
 ---
 
+{{< github-downloads "awa-vr" "Animation-Property-Finder" >}}
+
 Quickly find what animation clips animate a given property on a GameObject.
 
 ![](/images/vpm-tools/animation-property-finder/window.png "Main window")

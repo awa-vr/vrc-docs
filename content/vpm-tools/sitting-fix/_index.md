@@ -2,6 +2,8 @@
 title: Sitting Fix
 ---
 
+{{< github-downloads "awa-vr" "Sitting-Fix" >}}
+
 Allows for FBT when in a VRC chair without gogoloco.
 
 > [!WARNING]

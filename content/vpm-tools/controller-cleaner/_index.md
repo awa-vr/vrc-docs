@@ -2,6 +2,8 @@
 title: Controller Cleaner
 ---
 
+{{< github-downloads "awa-vr" "Controller-Cleaner" >}}
+
 Clean up unneeded subassets from an animator controller.
 
 ![](/images/vpm-tools/controller-cleaner/window.png "Main window")
